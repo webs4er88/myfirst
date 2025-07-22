@@ -99,9 +99,9 @@ python-dateutil
 python-decouple
 python-dotenv
 python-socks
-pyttsx3
+
 pytz
-pywin32
+
 redis
 reportlab
 requests
