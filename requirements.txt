@@ -93,7 +93,7 @@ pygame
 PyJWT
 pyparsing
 pyphen
-pypiwin32
+
 python-crontab
 python-dateutil
 python-decouple
