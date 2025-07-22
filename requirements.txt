@@ -57,7 +57,8 @@ django-translation-flags
 djangorestframework
 djangorestframework-simplejwt
 et_xmlfile
-facenet-pytorch
+
+
 filelock
 Flask
 Flask-Mail
@@ -75,8 +76,7 @@ multidict
 mysqlclient
 networkx
 numpy
-opencv-contrib-python
-opencv-python
+
 openpyxl
 packaging
 pandas
@@ -95,7 +95,7 @@ pygame
 PyJWT
 pyparsing
 pyphen
-python-crontab
+
 python-dateutil
 python-decouple
 python-dotenv
@@ -123,7 +123,7 @@ urllib3
 vine
 virtualenv
 wcwidth
-weasyprint
+
 webencodings
 Werkzeug
 whitenoise
