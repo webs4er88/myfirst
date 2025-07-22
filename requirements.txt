@@ -21,7 +21,7 @@ cffi
 chardet
 charset-normalizer
 click
-
+gunicorn
 click-didyoumean
 click-plugins
 click-repl
