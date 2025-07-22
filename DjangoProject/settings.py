@@ -14,9 +14,9 @@ BASE_DIR = os.path.dirname (os.path.dirname (os.path.abspath (__file__)))
 SECRET_KEY = '_q*z7t@q83#(9lu0ewb(74r^!@x7rb8wg(d$(d9+k7)cga*8(c'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [*]
 
 # Application definition
 
@@ -63,6 +63,7 @@ TINYMCE_DEFAULT_CONFIG = {
 
 
 MIDDLEWARE = [
+     'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -70,6 +71,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    
 ]
 
 ROOT_URLCONF = 'DjangoProject.urls'
