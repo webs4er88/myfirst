@@ -21,18 +21,18 @@ cffi
 chardet
 charset-normalizer
 click
-gunicorn
 click-didyoumean
 click-plugins
 click-repl
 cloudinary
 colorama
-comtypes
+
 crispy-bootstrap5
 cssselect2
 Deprecated
 distlib
 dj-database-url
+
 Django
 django-celery-beat
 django-cities
@@ -95,13 +95,11 @@ pygame
 PyJWT
 pyparsing
 pyphen
-pypiwin32
 python-crontab
 python-dateutil
 python-decouple
 python-dotenv
 python-socks
-pyttsx3
 pytz
 
 redis
