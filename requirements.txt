@@ -4,6 +4,7 @@ aiohttp_socks
 aiosignal
 amqp
 asgiref
+vercel-python
 async-timeout
 attrs
 autopep8
