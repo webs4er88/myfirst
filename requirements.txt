@@ -1,6 +1,6 @@
 aiohappyeyeballs
 aiohttp
-python-3.10.13
+
 aiohttp_socks
 aiosignal
 amqp
