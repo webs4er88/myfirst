@@ -1,5 +1,6 @@
 aiohappyeyeballs
 aiohttp
+python-3.10.13
 aiohttp_socks
 aiosignal
 amqp
@@ -20,6 +21,7 @@ cffi
 chardet
 charset-normalizer
 click
+
 click-didyoumean
 click-plugins
 click-repl
@@ -101,7 +103,7 @@ python-dotenv
 python-socks
 pyttsx3
 pytz
-pywin32
+
 redis
 reportlab
 requests
